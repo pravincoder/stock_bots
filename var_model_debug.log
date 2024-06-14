@@ -1,0 +1,20 @@
+2024-06-14 20:54:03,144 Starting new HTTPS connection (1): checkip.amazonaws.com:443
+2024-06-14 20:54:03,499 https://checkip.amazonaws.com:443 "GET / HTTP/1.1" 200 14
+2024-06-14 20:54:03,515 Starting new HTTPS connection (1): api.gradio.app:443
+2024-06-14 20:54:03,515 Starting new HTTPS connection (1): api.gradio.app:443
+2024-06-14 20:54:04,741 https://api.gradio.app:443 "GET /pkg-version HTTP/1.1" 200 21
+2024-06-14 20:54:04,741 entering code: StateBlock(line=0,level=0,tokens=0), 0, 1, False
+2024-06-14 20:54:04,741 entering fence: StateBlock(line=0,level=0,tokens=0), 0, 1, False
+2024-06-14 20:54:04,756 entering blockquote: StateBlock(line=0,level=0,tokens=0), 0, 1, False
+2024-06-14 20:54:04,756 entering hr: StateBlock(line=0,level=0,tokens=0), 0, 1, False
+2024-06-14 20:54:04,756 entering list: StateBlock(line=0,level=0,tokens=0), 0, 1, False
+2024-06-14 20:54:04,756 entering reference: StateBlock(line=0,level=0,tokens=0), 0, 1, False
+2024-06-14 20:54:04,756 entering html_block: StateBlock(line=0,level=0,tokens=0), 0, 1, False
+2024-06-14 20:54:04,756 Using selector: SelectSelector
+2024-06-14 20:54:04,839 Using selector: SelectSelector
+2024-06-14 20:54:04,843 https://api.gradio.app:443 "POST /gradio-initiated-analytics/ HTTP/1.1" 200 None
+2024-06-14 20:54:04,883 Starting new HTTP connection (1): 127.0.0.1:7860
+2024-06-14 20:54:04,883 http://127.0.0.1:7860 "GET /startup-events HTTP/1.1" 200 5
+2024-06-14 20:54:04,883 Starting new HTTP connection (1): 127.0.0.1:7860
+2024-06-14 20:54:04,903 http://127.0.0.1:7860 "HEAD / HTTP/1.1" 200 0
+2024-06-14 20:54:04,903 Starting new HTTPS connection (1): api.gradio.app:443
